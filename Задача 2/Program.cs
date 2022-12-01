@@ -6,11 +6,11 @@ int max = num1;
 if (num1 > num2)
 {
     max = num1;
-    Console.WriteLine(max);
+    Console.WriteLine("max = " + max);
 }
 else 
 {
     max = num2;
-    Console.WriteLine(max);
+    Console.WriteLine("max = " + max);
 }
 
